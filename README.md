@@ -1,6 +1,6 @@
 # 🌟 Bandi Ashok Kumar - Cloud & DevOps Engineer  
 
-![Profile Banner](https://raw.githubusercontent.com/Bandi-Ashok/My-portfoilo/refs/heads/main/images/README.md)  
+![Profile Banner](my_image.jpg.jpg)  
 
 🚀 *Aspiring Software Engineer | AWS & DevOps Enthusiast | Cloud Security Learner*  
 
