@@ -1,1 +1,1 @@
-images/README.md
+my_image.jpg.jpg"
