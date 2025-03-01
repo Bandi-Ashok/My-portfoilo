@@ -1,6 +1,6 @@
-## 🌟 Bandi Ashok Kumar - Cloud & DevOps Engineer  
+# 🌟 Bandi Ashok Kumar - Cloud & DevOps Engineer  
 
-![\my imeag.jpg.jpg](https://source.unsplash.com/1600x400/?technology,cloud)  
+![Profile Banner](https://raw.githubusercontent.com/Bandi-Ashok/My-portfoilo/refs/heads/main/images/README.md)  
 
 🚀 *Aspiring Software Engineer | AWS & DevOps Enthusiast | Cloud Security Learner*  
 
@@ -16,4 +16,4 @@
 ## 📫 *Connect with Me*  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://linkedin.com/in/bandiashokkumar)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](http://github.com/Bandi-Ashok)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bandibandiashokkumar@gmail.com) My-portfoilo
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bandibandiashokkumar@gamil.com)
